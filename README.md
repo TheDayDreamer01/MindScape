@@ -63,23 +63,23 @@ This program flow is an example that can be adapted or modified based on the spe
 
 Here's a comprehensive list of packages that I used for implementing the 20 features for MindScape in Flutter:
 
-1. Provider package for state management
-2. Shared Preferences package for local storage
-3. Firebase Authentication package for user authentication
-4. Firebase Cloud Firestore package for storing user data
-5. Firebase Cloud Functions package for serverless functions
-6. Firebase Cloud Storage package for storing user-generated content
-7. Flutter Local Notifications package for reminders and notifications
-8. Flutter Bluetooth Low Energy package for integration with wearable technology
-9. Firebase Cloud Messaging package for push notifications
-10. Firebase In-App Messaging package for in-app messaging
-11. Flutter WebView package for displaying web content in-app
-12. Flutter Video Player package for playing meditation and mindfulness videos
-13. Flutter Audio Player package for playing mood boosting music
-14. Flutter Animations package for UI animations and transitions
-15. Flutter Internationalization package for multi-language support
-16. Flutter Social Share package for sharing progress and achievements on social media
-17. Flutter Image Picker package for selecting and uploading user-generated content
-18. Flutter Web View Plugin package for embedding in-app surveys and assessments
-19. Flutter Date Format package for formatting dates and times
-20. Flutter Form Validation package for validating user input.
+1. `provider`: A state management package for Flutter apps.
+2. `shared_preferences`: A package for storing small amounts of data in the local device.
+3. `firebase_core`: A package for integrating Firebase into Flutter apps.
+4. `cloud_firestore`: A package for managing Firestore databases on Firebase.
+5. `firebase_auth`: A package for managing user authentication on Firebase.
+6. `firebase_storage`: A package for managing file storage on Firebase.
+7. ``
+8. `intl`: A package for internationalizing the app and managing dates and times.
+9. `flutter_svg`: A package for displaying scalable vector graphics in the app.
+10. `google_fonts`: A package for using custom fonts in the app.
+11. `path_provider`: A package for accessing local device storage.
+12. `url_launcher`: A package for launching external URLs.
+13. `http`: A package for making HTTP requests to APIs.
+14. `flutter_spinkit`: A package for displaying loading animations in the app.
+15. `flutter_bloc`: A package for managing the app's business logic.
+16. `hive`: A package for storing data in local databases.
+17. `flutter_slidable`: A package for creating swipeable list items.
+18. `flutter_keyboard_visibility`: A package for detecting keyboard visibility and adjusting the UI accordingly.
+19. `connectivity`: A package for detecting network connectivity status.
+20. `flutter_rating_bar`: A package for adding rating bars to the app.
